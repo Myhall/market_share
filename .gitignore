@@ -1,0 +1,7 @@
+.idea/
+.mvn/repository/
+target/
+output/
+scripts/sonar.sh
+*.iml
+.DS_Store
